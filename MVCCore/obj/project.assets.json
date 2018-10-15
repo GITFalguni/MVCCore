@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Falguni Chanak\\source\\repos\\Core\\MVCCore\\MVCCore\\MVCCore.csproj",
+      "projectUniqueName": "C:\\Falguni\\Git\\MVCCore\\MVCCore\\MVCCore.csproj",
       "projectName": "MVCCore",
-      "projectPath": "C:\\Users\\Falguni Chanak\\source\\repos\\Core\\MVCCore\\MVCCore\\MVCCore.csproj",
+      "projectPath": "C:\\Falguni\\Git\\MVCCore\\MVCCore\\MVCCore.csproj",
       "packagesPath": "C:\\Users\\Falguni Chanak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Falguni Chanak\\source\\repos\\Core\\MVCCore\\MVCCore\\obj\\",
+      "outputPath": "C:\\Falguni\\Git\\MVCCore\\MVCCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
